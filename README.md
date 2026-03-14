@@ -73,4 +73,4 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/manoj-guha-b79a7a163/
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/manoj-guha-b79a7a163/)
